@@ -81,6 +81,14 @@ function insert(a, n, c) {
     return a
 }
 
+function occurenceOf(c, count) {
+    let final = ''
+    for(let i = 0; i < count; i++) {
+        final += c
+    }
+    return final
+}
+
 module.exports = {
     create: createDictionnary,
     randomValue: randomValue,
@@ -89,5 +97,6 @@ module.exports = {
     sortNumbers: sortNumbers,
     waiting: waiting,
     isMultiple: isMultiple,
-    insert: insert
+    insert: insert,
+    occurenceOf: occurenceOf
 }
