@@ -1,6 +1,7 @@
 # tricks.js Npm
 
 [Github link](https://github.com/githoldi/tricks.js)
+[Npmjs link](https://npmjs.com/package/tricks.js)
 
 # Usage
 
