@@ -1,6 +1,6 @@
 {
   "name": "tricks.js",
-  "version": "4.7.3",
+  "version": "4.8.0",
   "description": "A package that will make your life easier in javascript!",
   "main": "index.js",
   "scripts": {
