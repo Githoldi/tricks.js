@@ -1,5 +1,7 @@
 # tricks.js Npm
 
+[Github link](https://github.com/githoldi/tricks.js)
+
 # Usage
 
 **in terminal:**
