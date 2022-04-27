@@ -148,8 +148,14 @@ console.log(tricks.isMultiple(10, 3))
 ## insert element in array
 ```js
 const array = ['one', 'three']
-console.log(insert(array, 2, 'two'))
+console.log(tricks.insert(array, 2, 'two'))
 // > ['one', 'two', 'three']
+```
+
+## add an element occurence in array
+```js
+console.log('there are 3 points: ' + occurenceOf('.', 3))
+// > there are 3 points: ...
 ```
 
 ### Thanks You for reading !
